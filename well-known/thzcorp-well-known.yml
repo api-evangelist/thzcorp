@@ -1,0 +1,31 @@
+generated: '2026-07-21'
+method: searched
+description: >-
+  Results of probing the /.well-known/ discovery surface for the only host in
+  apis.yml (https://www.thzcorp.com — Cambridge Terahertz publishes no API base
+  host). Status is the HTTP code observed at fetch time. Every /.well-known/
+  document probed returned 404, so no raw files were saved. The host does
+  publish a real /llms.txt (200, advertised in robots.txt via an llms-txt
+  directive), captured verbatim at llms/thzcorp-llms.txt.
+hosts:
+  - host: https://www.thzcorp.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+        file: null
+      - path: /.well-known/openid-configuration
+        status: 404
+        file: null
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+        file: null
+      - path: /.well-known/api-catalog
+        status: 404
+        file: null
+      - path: /.well-known/ai-plugin.json
+        status: 404
+        file: null
+    notes:
+      - /llms.txt returns 200 and is referenced from /robots.txt (llms-txt directive);
+        saved verbatim to llms/thzcorp-llms.txt
+      - /robots.txt returns 200 with sitemap at /sitemap_index.xml

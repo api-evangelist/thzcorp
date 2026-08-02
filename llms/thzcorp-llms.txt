@@ -1,0 +1,56 @@
+# Cambridge Terahertz
+
+>
+
+**URL:** https://www.thzcorp.com
+**Language:** en_US
+**Last Updated:** 2026-07-15
+
+## Blog Posts
+
+- [Announcing Cambridge Terahertz’s $12M Seed Funding](https://www.thzcorp.com/seed-funding/): This company was born out of necessity - a personal mission that started after a senseless mass shooting at my high school.
+- [Introduction](https://www.thzcorp.com/introduction/): This journey has been challenging but incredibly rewarding, evolving into something much bigger than we ever imagined. Exciting news on the horizon.
+- [The Problem](https://www.thzcorp.com/the-problem/): The photo below is of my beloved high school principal handing me my graduation diploma. Not too long after, she was tragically murdered in a shooting at our school.
+- [What Is Terahertz?](https://www.thzcorp.com/what-is-terahertz/): What if I told you there’s a technology that could make 5G look like dial-up, X-rays seem outdated, and radar appear clumsy? Welcome to the world of Terahertz.
+- [Terahertz Imaging](https://www.thzcorp.com/terahertz-imaging/): Imagine having X-ray vision without the health risks. That’s the potential of Terahertz imaging, a technology that’s had scientists buzzing for decades.
+- [An Exciting Journey](https://www.thzcorp.com/an-exciting-journey/): Weapons violence is on the rise. How can we ensure safety without creating a constant state of fear or inconvenience?
+- [Transforming Terahertz Tech Into Real-World Security Solutions](https://www.thzcorp.com/transforming-terahertz-tech-into-real-world-security-solutions/): Weapons violence is on the rise. How can we ensure safety without creating a constant state of fear or inconvenience?
+- [Live Demo at ISC West 2025](https://www.thzcorp.com/live-demo-at-isc-west-2025/): Exciting news! We’re showcasing our cutting-edge Concealed Weapons Detection Solution at ISC West in Las Vegas, April 2-4, Booth #33106. Come see it in action!
+- [SecurityInfoWatch.com: “Terahertz Imaging Poised to Shake Up Weapons Detection”](https://www.thzcorp.com/terahertz-imaging-poised-to-shake-up-weapons-detection/): A startup debuting at ISC West is bringing the futuristic technology out of the lab and into the field for enterprise security applications.
+- [Cambridge Terahertz awarded $1.25M NSF SBIR Phase II grant](https://www.thzcorp.com/cambridge-terahertz-awarded-1-25m-nsf-sbir-phase-ii-grant/): “This funding will accelerate our efforts to turn years of MIT research into scalable, real-world terahertz solutions.”
+- [Security Industry Association (SIA) New Member Profile](https://www.thzcorp.com/security-industry-association-sia-new-member-profile/): Kittur Nagesh spoke with SIA's Kara Klein on company, security industry trends, and working with SIA.
+- [CEO Nathan Monroe’s Presentation at GSX 2025](https://www.thzcorp.com/ceo-nathan-monroes-presentation-at-gsx-2025/): Nathan provides an overview of Terahertz technology and why it matters for concealed weapons detection.
+
+## Pages
+
+- [Careers](https://www.thzcorp.com/careers/): Careers We’re democratizingairport-grade securityfor a safer world.Please check back soon for future opportunities. Schedule a demo to see how Cambridge Terahertz can transform security at your facility. Request a Demo
+- [Privacy Policy](https://www.thzcorp.com/privacy-policy/): Privacy Policy and Terms and Conditions Cambridge Terahertz, Inc. respects your privacy. This Privacy Notice explains how we collect, use, and protect your information when you visit our website or...
+- [Partners](https://www.thzcorp.com/partners/): Partner with Cambridge Terahertz Add game-changing concealed weapons detection to your security portfolio. A trusted partner for modern security systems Security integrators and entrance system providers trust Cambridge Terahertz to help them deliver...
+- [Industries – Healthcare](https://www.thzcorp.com/industries-healthcare/): Security That Blends in a Healing Environment Protect your patients, staff, and visitors without compromising the care experience. Hospitals are places of healing —not interrogation. Yet healthcare workers face escalating...
+- [Industries – Government](https://www.thzcorp.com/industries-government/): Beyond Weapons Detection Our terahertz platform extends beyond concealed weapons detection Support broader eCommerce, industrial, government and defense applications: Package Inspection: Noninvasive detection of concealed items in boxes, pallets, and...
+- [Industries – Enterprise](https://www.thzcorp.com/industries-enterprise/): Enterprise Security That Scales Protect your people across every entrance, every building, every campus. Your employees and visitors deserve to feel safe at work Your visitors deserve a welcoming experience....
+- [About](https://www.thzcorp.com/about/): See the Invisible.Detect Weapons.Save Lives. We make concealed weapons detection accessible to every organization and location that needs it. Why we started Cambridge Terahertz Our founder, Nathan Monroe, grew up...
+- [Solutions](https://www.thzcorp.com/solutions/): The science of seeing the invisible Advanced sensor technology that detects concealed threats without compromising privacy or flow. Cambridge Terahertz uses MIT-developed sensor and AI to detect concealed weapons and alert...
+- [Home](https://www.thzcorp.com/): Deploy Anywhere. Protect Everyone. Compact sensor systems, that can be mounted anywhere, deliver airport-grade weapons detection. See How It Works A safe, non-intrusive physical security solution for hospitals, enterprises, and...
+- [News & Resources](https://www.thzcorp.com/news-resources/): Resources Thought leadership on technology and security from our team of terahertz pioneers Schedule a demo to see how Cambridge Terahertz can transform security at your facility. Request a Demo
+- [Contact](https://www.thzcorp.com/contact/): See Cambridge Terahertz in action Schedule a demo to learn how we can help secure your facility. Discover what’s possible with modern concealed weapons detection. See how Cambridge Terahertz fits your environment. Contact info@thzcorp.com Santa Clara, CA Cambridge, MA
+
+## Markdown Exports
+
+- https://www.thzcorp.com/llms-docs/privacy-policy.md
+- https://www.thzcorp.com/llms-docs/news-resources.md
+- https://www.thzcorp.com/llms-docs/contact.md
+- https://www.thzcorp.com/llms-docs/careers.md
+- https://www.thzcorp.com/llms-docs/partners.md
+- https://www.thzcorp.com/llms-docs/about.md
+- https://www.thzcorp.com/llms-docs/industries-government.md
+- https://www.thzcorp.com/llms-docs/industries-healthcare.md
+- https://www.thzcorp.com/llms-docs/industries-enterprise.md
+- https://www.thzcorp.com/llms-docs/solutions.md
+- https://www.thzcorp.com/llms-docs/homepage.md
+- https://www.thzcorp.com/llms-docs/ceo-nathan-monroes-presentation-at-gsx-2025.md
+
+## About
+
+**Author:** cambridgekbd
+**Contact:** https://www.thzcorp.com/contact/

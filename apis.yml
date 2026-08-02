@@ -1,8 +1,26 @@
 aid: thzcorp
-name: Thzcorp
-description: Thzcorp is a company surfaced as a portfolio company of felicis and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: Cambridge Terahertz
+description: Cambridge Terahertz (thzcorp.com) is an MIT-spinout physical security company
+  building compact, AI-powered terahertz imaging sensors that detect concealed weapons --
+  guns, knives, explosives, and 3D-printed weapons -- as people walk naturally through
+  entrances, without pat-downs or metal detectors. The 2-pound sensors mount like security
+  cameras, serve hospitals, enterprises, and government facilities, and integrate with
+  existing VMS and security systems over standard REST APIs, though the company publishes
+  no public developer portal or API documentation. Backed by Felicis with a $12M seed
+  round and an NSF SBIR Phase II grant.
 url: https://raw.githubusercontent.com/api-evangelist/thzcorp/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.thzcorp.com/favicon.ico
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +29,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Physical Security
+- Weapons Detection
+- Terahertz
+- Sensors
+- Artificial Intelligence
+- Hardware
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +46,27 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://thzcorp.com
+  url: https://www.thzcorp.com
+- type: About
+  url: https://www.thzcorp.com/about/
+- type: Blog
+  url: https://www.thzcorp.com/news-resources/
+- type: Contact
+  url: https://www.thzcorp.com/contact/
+- type: Partners
+  url: https://www.thzcorp.com/partners/
+- type: Careers
+  url: https://www.thzcorp.com/careers/
+- type: PrivacyPolicy
+  url: https://www.thzcorp.com/privacy-policy/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/thzcorp/
+- type: LLMsTxt
+  url: llms/thzcorp-llms.txt
+- type: DomainSecurity
+  url: security/thzcorp-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
